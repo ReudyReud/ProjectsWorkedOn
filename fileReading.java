@@ -3,7 +3,7 @@ import java.io.File;
 import java.io.PrintWriter; 
 
 
-class Main {
+class fileReading {
   
   public static boolean isPrime(int n){
     if(n<=1) return false;
