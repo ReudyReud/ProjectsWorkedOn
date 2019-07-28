@@ -1,5 +1,5 @@
 import java.util.*;
-class HW4{
+class SolveablePuzzle{
    // Returns true if it is possible to reach the goal state from the initial state.
    static boolean isSolvable(List<Integer> initialState) {
       // Fill in.
