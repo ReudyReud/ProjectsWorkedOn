@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class HW3 {
+public class QuickSort {
    static Random rand = new Random();
 
   private static void shuffle(int[] arr){ 
