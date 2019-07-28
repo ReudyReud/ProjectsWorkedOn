@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-class HW2 {   
+class SetsAndMaps {   
    // Prints all movies that occur in both lists.
    public static void intersection(List<String> list1, List<String> list2) {
      Set<String> set = new HashSet<String>();
