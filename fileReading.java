@@ -36,12 +36,6 @@ class fileReading {
       countNum++;
       int x = sc.nextInt();
       
-      // if (!readFirst) {
-      //   smallNumber = x;
-      //   largeNumber = x;
-      //   readFirst = true;
-      // }
-      
       if(x < 0){
         countNegatives ++; 
       }
